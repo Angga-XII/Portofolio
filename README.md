@@ -3,6 +3,27 @@ These are some application that i have worked on (specifically one using C#/ WPF
 
 Berikut merupakan beberapa aplikasi yang pernah saya kerjakan (terutaman yang menggunakan C# / framework WPF). Aplikasi berikut dibuat berdasarkan kolabarasi antara kantor saya sekaran (PT Nexin) dan satuan militer tertentu.
 
+## Rifle Perimeter Management System
+![alt text](https://github.com/Angga-XII/Portofolio/blob/main/RPMS.png)
+
+This application is integrated with movement detector and camera to detect moving object and plot its coordinate into an open source map, collaborated with PUSSENIF (Pusat Senjata Infantri).
+
+Aplikasi ini di integrasikan dengan pendeteksi gerakan dan camera untuk mendeteksi objek bergerak dan memplot hasilnya di peta opensource, kolaborasi dengan PUSSENIF (Pusat Senjata Infantri).
+
+## METEO
+![alt text](https://github.com/Angga-XII/Portofolio/blob/main/meteo.png)
+
+This application is used to keep track of weather data from a Radiosonde balloon and drone, including Temperature, humidity, pressure, made with collaboration with ARMED (Artileri Medan).
+
+Aplikasi ini digunakan untuk menyimpan dan melacak data cuaca dari balon dan drone Radiosonde, termasuk temperatur, kelembapan, tekanan, hasil kolaborasi dengan ARMED (Artileri Medan).
+
+## Voice Communication
+![alt text](https://github.com/Angga-XII/Portofolio/blob/main/voice%20communication.png)
+
+This application is used to connect three bases of operation in a Voice Call Session based on Voip technology, made with collaboration with ARHANUD (Pertahanan Udara)
+
+Aplikasi ini digunakan untuk menghubungkan tiga basis operasi di dalam satu sesi panggilan suara berbasil teknologi Voip, hasil kolaborasi dengan ARHANUD (Pertahanan Udara).
+
 ## Firing Correction System
 ![alt text](https://github.com/Angga-XII/Portofolio/blob/main/FCS.png)
 
@@ -11,17 +32,14 @@ This application is used to calculate correction for a cannon shot trajectory ut
 Aplikasi ini digunakan untuk menghitung koreksi penembakan meriam dengan memanfaatkan pesawat terbang tanpa awak, hasil kolaborasi dengan ARMED (Artileri Medan).
 
 
-## Rifle Perimeter Management System
-![alt text](https://github.com/Angga-XII/Portofolio/blob/main/RPMS.png)
-
-This application is integrated with movement detector and camera to detect moving object and plot its coordinate into an open source map, collaborated with PUSSENIF (Pusat Senjata Infantri).
-
-Aplikasi ini di integrasikan dengan pendeteksi gerakan dan camera untuk mendeteksi objek bergerak dan memplot hasilnya di peta opensource, kolaborasi dengan PUSSENIF (Pusat Senjata Infantri).
-
-
 ## OTHER
-and other Application, If you have any question please feel free to ask me in private using my email below! 
+and other Application, If you have any question please feel free to ask me in private using my email or social media below! 
 
-dan berbagai aplikasi lainnya, jika anda memiliki pertanyaan silakan bertanya menggunakan email dibawah!
+dan berbagai aplikasi lainnya, jika anda memiliki pertanyaan silakan bertanya menggunakan email atau social media dibawah!
 
 Prianka.Anggara@gmail.com
+
+[Linkedin](www.linkedin.com/in/priankaanggara)
+
+[Instagram](https://www.instagram.com/prianka.anggara/)
+
